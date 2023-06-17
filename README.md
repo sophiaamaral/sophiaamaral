@@ -23,4 +23,12 @@
 <a href="https://github.com/sophiaamaral">
 <img height="190em" src="https://github-readme-stats.vercel.app/api?username=sophiaamaral&rank_icon=github&theme=tokyonight&include_all_commits=true&count_private=true"/>
 <img height="190em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=sophiaamaral&layout=compact&langs_count=7&theme=tokyonight"/>
+</div><br>
+
+##
+
+<div align="center">
+<img height="200em" src="https://cdn.discordapp.com/attachments/1119744205108031540/1119744342899314698/gato-digitando.gif?"/> 
+  
+<img height="200em" src="https://cdn.discordapp.com/attachments/1119744205108031540/1119744386926911519/sheldon-cooper.gif?"/> 
 </div>
