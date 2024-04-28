@@ -2,7 +2,7 @@
 
 ##
 <div>
-<i>🌱 Atualmente estou aprendendo...</i> 
+<i>Linguagens</i> 
 <p><br>
 <img align="center" alt="Sophi-Js" height="40" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
 <img align="center" alt="Sophi-HTML" height="40" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
