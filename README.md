@@ -8,6 +8,7 @@
 <img align="center" alt="Sophi-HTML" height="40" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
 <img align="center" alt="Sophi-CSS" height="40" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
 <img align="center" alt="Sophi-sql" height="40" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg"> 
+<img align="center" alt="Sophi-sql" height="40" width="40" src="https://www.google.com/url?sa=i&url=https%3A%2F%2Ficonscout.com%2Ffree-icon%2Freact-1&psig=AOvVaw0vZJ1eOs01WnEGRGIBr-66&ust=1717691362802000&source=images&cd=vfe&opi=89978449&ved=0CBIQjRxqFwoTCJiRv5fxxIYDFQAAAAAdAAAAABAE>
 </p>
   
 <i>📫 Como chegar até mim: </i>
