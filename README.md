@@ -1,9 +1,13 @@
-### <div align="center">< Bem vindo(a) ao meu perfil no GitHub. /> 👩‍💻</div>
+
 
 ##
-<img alt="banner-sophi" src="https://i.imgur.com/yYeSkQN.png">
 
-<br>
+<img alt="banner-sophi" src="https://i.imgur.com/yYeSkQN.png">
+  
+##
+
+
+### <div align="center">< Bem vindo(a) ao meu perfil no GitHub. /> 👩‍💻</div>
 
 <div align="center">
   <i>Linguagens de Programação</i>
