@@ -1,4 +1,4 @@
-### <div align="center">Olá, Eu sou a Sophia! 👩‍💻 < Bem vindo(a) ao meu perfil no GitHub. /></div>
+### <div align="center">< Bem vindo(a) ao meu perfil no GitHub. /> 👩‍💻</div>
 
 ##
 <img alt="banner-sophi" src="https://i.imgur.com/yYeSkQN.png">
