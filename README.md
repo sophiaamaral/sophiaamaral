@@ -27,6 +27,7 @@
   <img align="center" alt="Sophi-React" height="40" width="40" src="https://cdn.iconscout.com/icon/free/png-512/free-react-1-282599.png">
   <img align="center" alt="Sophi-Spring" height="40" width="90" src="https://spring.io/img/logos/spring-initializr.svg">
   <img align="center" alt="Sophi-SpringBoot" height="40" width="90" src="https://lh7-us.googleusercontent.com/4YTONTZs0c0xaLJ3HOGcCUhFOCTAD15yHA80lYrONlBI6usZ7cShODVNdiE51ACui1jXWc1Gsyu7SvHewR_mW_-waa85eP0FmNpbos8o4UArpC92mrfHNNhh85-o2RgM-en22KM0W7GedqagiQWNzg">
+  <img align="center" alt="Sophi-SpringBoot" height="40" width="90" src="https://miro.medium.com/v2/resize:fit:828/format:webp/1*XP-oUbM-zMZ-t5cwBbGhLg.png">
 <br>
 
   <i>Banco de Dados</i>
