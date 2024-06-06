@@ -1,10 +1,8 @@
 ### <div align="center">Olá, Eu sou a Sophia! 👩‍💻 < Bem vindo(a) ao meu perfil no GitHub. /></div>
 
 ##
+<img alt="banner-sophi" src="https://i.imgur.com/yYeSkQN.png">
 
-<div align="center">
-  <img alt="banner-sophi" src="https://i.imgur.com/mg0VIvX.png">
-</div>
 <br>
 
 <div align="center">
