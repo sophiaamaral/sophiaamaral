@@ -5,19 +5,29 @@
 <div display="flex" align="center">
 <img alt="banner-sophi" src="https://i.imgur.com/mg0VIvX.png">
 </div><br>
-<i>Linguagens</i> 
-<p><br>
+  
+<i>Linguagens de Programação</i> 
+<br><br>
 <img align="center" alt="Sophi-Java" height="40" width="40" src="https://cdn.iconscout.com/icon/free/png-512/free-java-60-1174953.png">
-<img align="center" alt="Sophi-React" height="40" width="40" src="https://cdn.iconscout.com/icon/free/png-512/free-react-1-282599.png">
 <img align="center" alt="Sophi-Js" height="40" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
+<br>
+  
+<i>Linguagens de Marcação/Estilo:</i> 
+<br><br>
 <img align="center" alt="Sophi-HTML" height="40" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
 <img align="center" alt="Sophi-CSS" height="40" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
-<img align="center" alt="Sophi-sql" height="40" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg"> 
-</p>
-<i>Framework</i> 
-<p><br>
+<br>  
+  
+<i>Bibliotecas/Frameworks</i> 
+<br><br>
+<img align="center" alt="Sophi-React" height="40" width="40" src="https://cdn.iconscout.com/icon/free/png-512/free-react-1-282599.png">
+<img align="center" alt="Sophi-Js" height="40" width="90" src="https://spring.io/img/logos/spring-initializr.svg">
 <img align="center" alt="Sophi-Js" height="40" width="90" src="https://lh7-us.googleusercontent.com/4YTONTZs0c0xaLJ3HOGcCUhFOCTAD15yHA80lYrONlBI6usZ7cShODVNdiE51ACui1jXWc1Gsyu7SvHewR_mW_-waa85eP0FmNpbos8o4UArpC92mrfHNNhh85-o2RgM-en22KM0W7GedqagiQWNzg">
-</p>
+<br>  
+
+<i>Banco de Dados</i> 
+<br><br>
+<img align="center" alt="Sophi-sql" height="40" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg"> 
   
 <i>📫 Como chegar até mim: </i>
 <br><div> 
