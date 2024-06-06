@@ -10,6 +10,7 @@
 <br><br>
 <img align="center" alt="Sophi-Java" height="40" width="40" src="https://cdn.iconscout.com/icon/free/png-512/free-java-60-1174953.png">
 <img align="center" alt="Sophi-Js" height="40" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
+<img align="center" alt="Sophi-node" height="40" width="70" src="https://upload.wikimedia.org/wikipedia/commons/thumb/d/d9/Node.js_logo.svg/885px-Node.js_logo.svg.png?20170401104355">
 <br>
   
 <i>Linguagens de Marcação/Estilo:</i> 
