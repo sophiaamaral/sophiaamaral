@@ -1,9 +1,9 @@
-### Oie, Eu sou a Sophia!👋😸 <Bem vindo(a) ao meu perfil no GitHub.>
+### Olá, Eu sou a Sophia!👋😸 <Bem vindo(a) ao meu perfil no GitHub.>
 
 ##
 <div>
 <div display="flex" align="center">
-<img height="190em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=sophiaamaral&layout=compact&langs_count=7&theme=tokyonight"/>
+<img alt="banner-sophi" src="https://i.imgur.com/mg0VIvX.png">
 </div><br>
 <i>Linguagens</i> 
 <p><br>
