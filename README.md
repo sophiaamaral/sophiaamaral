@@ -9,6 +9,7 @@
 
 ### <div align="center">< Bem vindo(a) ao meu perfil no GitHub. /> 👩‍💻</div>
 
+
   <i>Linguagens de Programação</i>
   <br><br>
   <img align="center" alt="Sophi-Java" height="40" width="40" src="https://cdn.iconscout.com/icon/free/png-512/free-java-60-1174953.png">
@@ -36,10 +37,16 @@
 <br>
 
 <div align="center">
+  
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=sophiaamaral&show_icons=true&theme=tokyonight)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=sophiaamaral&layout=pie&theme=tokyonight)]
+
+
+</div>  
+<div align="center">
   <i>📫 Como chegar até mim:</i>
   <br>
   <a href="mailto:soso.amaral05@gmail.com"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
   <a href="https://www.linkedin.com/in/sophia-amaral-silva-2b21a5221/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a>
   <a href="https://wa.me/5511980925594?text=Olá, te encontrei pelo GitHub" target="_blank"><img src="https://img.shields.io/badge/WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white" target="_blank"></a>
 </div>
-<br>
