@@ -1,5 +1,4 @@
-### <div align="center">Olá, Eu sou a Sophia! 👩‍💻</div>
-<div align="center">< Bem vindo(a) ao meu perfil no GitHub. /></div>
+### <div align="center">Olá, Eu sou a Sophia! 👩‍💻 < Bem vindo(a) ao meu perfil no GitHub. /></div>
 
 ##
 
