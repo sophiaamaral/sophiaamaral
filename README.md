@@ -1,4 +1,4 @@
-### Olá, Eu sou a Sophia!👋😸 <Bem vindo(a) ao meu perfil no GitHub.>
+### Olá, Eu sou a Sophia! :woman_technologist:	 <Bem vindo(a) ao meu perfil no GitHub.>
 
 ##
 <div>
