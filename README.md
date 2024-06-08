@@ -9,6 +9,9 @@
 
 ### <div align="center">< Bem vindo(a) ao meu perfil no GitHub. /> 👩‍💻</div>
 
+## ⚡ Tecnologias
+
+Estas são algumas das tecnologias e ferramentas com as quais trabalho:
 
   <i>Linguagens de Programação</i>
   <br><br>
