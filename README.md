@@ -2,7 +2,7 @@
 
 ##
 
-<img alt="banner-sophi" src="https://i.imgur.com/yYeSkQN.png">
+<img alt="banner-sophi" src="https://i.imgur.com/WLXsw96.jpeg">
   
 ##
 
