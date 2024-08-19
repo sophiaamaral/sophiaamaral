@@ -22,6 +22,7 @@ Estas são algumas das tecnologias e ferramentas com as quais trabalho:
   <img align="center" alt="Sophi-HTML" height="40" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
   <img align="center" alt="Sophi-CSS" height="40" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
   <img align="center" alt="Sophi-React" height="40" width="40" src="https://cdn.iconscout.com/icon/free/png-512/free-react-1-282599.png">
+  <img align="center" alt="Sophi-Angular" height="40" width="40" src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRmKO2JKpkkbsTm7NNPmmV-wkZADH6FYM2UkA&s">
   <img align="center" alt="Sophi-Js" height="40" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
   <img align="center" alt="Sophi-node" height="40" width="70" src="https://upload.wikimedia.org/wikipedia/commons/thumb/d/d9/Node.js_logo.svg/885px-Node.js_logo.svg.png?20170401104355">
 <br>
